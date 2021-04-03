@@ -148,4 +148,4 @@ function checkStatus() {
         message.innerHTML = 'Game Over!!!';
         score = -1;
     }
-}
+} 
