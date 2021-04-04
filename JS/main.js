@@ -74,7 +74,7 @@ function init() {
     // Start matching on word input
     wordInput.addEventListener('input', startMatch);
     // Call countdown every second
-    setInterval(countdown, 1500);
+    setInterval(countdown, 1000);
     // Check game status
     setInterval(checkStatus, 50);
 }
