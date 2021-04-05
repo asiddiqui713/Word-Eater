@@ -61,7 +61,7 @@ const words = [
     'jocular',
     'joker',
     'bomb',
-    'unnecessary'
+    'unnecessary',
     'agitprop',
     'confabulate',
     'crony',
