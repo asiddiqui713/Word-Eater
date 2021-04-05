@@ -27,7 +27,7 @@ const highscoreDisplay = document.querySelector('#highscore');
 
 
 const words = [
-    'Hello',
+    'hello',
     'grenadine',
     'pomegranate',
     'concretize',
