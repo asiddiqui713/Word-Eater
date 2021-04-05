@@ -27,6 +27,7 @@ const highscoreDisplay = document.querySelector('#highscore');
 
 
 const words = [
+    'Hello',
     'grenadine',
     'pomegranate',
     'concretize',
@@ -61,6 +62,32 @@ const words = [
     'joker',
     'bomb',
     'unnecessary'
+    'agitprop',
+    'confabulate',
+    'crony',
+    'empirical',
+    'robust',
+    'debonair',
+    'grease',
+    'paltry',
+    'argument',
+    'frequent',
+    'classy',
+    'lighten',
+    'learned',
+    'neck',
+    'suspect',
+    'tremble',
+    'gallery', 
+    'hold', 
+    'groaning', 
+    'bumble', 
+    'worm', 
+    'immunity', 
+    'arms', 
+    'skyline', 
+    'headlock', 
+    'enzyme'
 
 ];
 
